@@ -37,11 +37,4 @@ As part of my journey, I’m diving into **mobile development**, learning how to
 
 ---
 
-## 🧠 Currently Learning
-
-- Deepening my knowledge in **full-stack architecture**
-- Exploring **mobile app development** using:
-  - 🤖 **Kotlin** for Android
-  - 🍎 **Swift** for iOS
-- Advancing in **TypeScript** and backend logic
 
