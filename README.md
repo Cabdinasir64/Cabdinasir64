@@ -32,7 +32,7 @@ As part of my journey, I’m diving into **mobile development**, learning how to
 ## 📫 Get in Touch
 
 - 💼 GitHub: https://github.com/Cabdinasir64 
-- 📧 Email: cabdinasira64@gmail.com
+- 📧 Email: abdinasirahmedbashir@gmail.com
 - 🌐 Portfolio: coming soon  
 
 ---
